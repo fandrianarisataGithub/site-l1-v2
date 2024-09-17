@@ -8,6 +8,7 @@ for (let i = 0; i < products.length; i++) {
         element.classList.add('animate')
         setTimeout(function(){
             element.classList.remove('animate') 
-        }, 1000)
+        }, 1000) 
+        // fandrianarisataGithub
     })
 }
